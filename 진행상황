@@ -1,3 +1,4 @@
+2021-07-02-AM
 1. pom.xml 복사 붙여넣기
 2. OracleConnectionTest PASS
 3. src/main/resources 에 있는 mybatis-config.xml 복사 붙여넣기
@@ -15,4 +16,5 @@ Date: /regDate(회원가입일), /updateDate(최근 수정일)
 KeepItem: 장바구니
 Like: 좋아요,찜
 Level: 권한
-11. 
+2021-07-02-PM
+DB생성 이후 DTO JSP Controller DAO Service하다가 오류
