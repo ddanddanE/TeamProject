@@ -1,0 +1,18 @@
+1. pom.xml 복사 붙여넣기
+2. OracleConnectionTest PASS
+3. src/main/resources 에 있는 mybatis-config.xml 복사 붙여넣기
+4. src/main/resources 에 mappers folder생성
+5. src/main/resources/mappers에 *Mapper.xml생성
+6. src/main/webapp/WEB-INF/spring/appServlet에 servlet-context 수정
+7. src/main/webapp/WEB-INF/spring에 root-context 수정
+8. MybatisTest PASS
+9. DataSourceTest PASS
+10. SQL(Membertable) NAME: t_member 생성
+ㄴ 컬럼명:
+로그인 관련 : /ID, /PW
+개인정보: /Name, /PhoneNum, /Email, /성별
+Date: /regDate(회원가입일), /updateDate(최근 수정일)
+KeepItem: 장바구니
+Like: 좋아요,찜
+Level: 권한
+11. 
